@@ -1,6 +1,8 @@
 # SLIGE
 SLIGE Doom WAD Generator source code by Dave M. Chess (https://www.doomworld.com/slige/)
 
+  -readme-
+
    SLIGE - a random-level generator for DOOM
            by David M. Chess
            dmchess@aol.com         http://www.davidchess.com/
